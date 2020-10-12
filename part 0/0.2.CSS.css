@@ -1,0 +1,11 @@
+/* Selecting single element */
+p {
+    color: red;
+    width: 500px;
+    border: 1px solid black;
+  }
+
+  /* Selecting multiple elements */
+h1 ,h2 {
+    color:blueviolet;
+}
